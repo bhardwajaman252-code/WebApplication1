@@ -11,5 +11,7 @@ namespace WebApplication1
         public string? Summary { get; set; }
 
         public string name { get; set; } = "aman";
+
+        public int count { get; set; }
     }
 }

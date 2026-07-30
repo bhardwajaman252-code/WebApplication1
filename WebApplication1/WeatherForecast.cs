@@ -13,5 +13,6 @@ namespace WebApplication1
         public string name { get; set; } = "aman";
 
         public int count { get; set; }
+        public int Testcount { get; set; } = 000;
     }
 }
